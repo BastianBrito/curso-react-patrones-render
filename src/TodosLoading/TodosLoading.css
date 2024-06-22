@@ -41,7 +41,7 @@
 .LoadingTodo-container,
 .LoadingTodo-completeIcon,
 .LoadingTodo-deleteIcon {
-  background: linear-gradient(90deg, rgba(250,250,250,1), rgb(200, 199, 199));
+  background: linear-gradient(90deg,#3d3d3d, rgb(24, 40, 56));
   background-size: 400% 400%;
   animation: loadingAnimation 3s ease-in-out infinite;
 }
